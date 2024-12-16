@@ -265,7 +265,7 @@ header {
 
 @media (max-width: 767px) and (min-width: 425px) {
     .home-section {
-        background-image: url('/images/homepage image.png');
+        background-image: url('images/homepage image.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
