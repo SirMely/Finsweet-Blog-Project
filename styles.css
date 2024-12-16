@@ -225,7 +225,7 @@ header {
 
 .home-section {
     background-image: radial-gradient(circle, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.8) 100%),
-        url('/images/homepage image.png');
+        url('images/homepage image.png');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
